@@ -1,0 +1,22 @@
+{
+  "name": "libflac",
+  "version": "0.1.0",
+  "description": "Re-packaging of mmig/libflac.js, an asm.js transpilation of the C libflac library.",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ztl8702/libflac.git"
+  },
+  "author": "Radium Zheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ztl8702/libflac/issues"
+  },
+  "homepage": "https://github.com/ztl8702/libflac#readme"
+}
